@@ -15,6 +15,16 @@ body {
   shadow: 1px #000 0 0;
 }
 
+.wrapper .header {
+  border-bottom: 1px solid #DDD;
+  padding: 30px;
+}
+
+.wrapper .header img {
+  display: block;
+  height: 50px;
+  margin: 0 auto;
+}
 
 .wrapper .moment {
   width: 80%;
